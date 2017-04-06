@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "621547075785",
+    "firebase_url": "https://apteka-online.firebaseio.com",
+    "project_id": "apteka-online",
+    "storage_bucket": "apteka-online.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621547075785:android:34051880bb89c565",
+        "android_client_info": {
+          "package_name": "com.example.graduation_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621547075785-m2cqt5q3nucj3cnaiajg8tnm7mdthqis.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcbgKabzLBXF0TTvb6NQRyxTDeWzxZCFs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
